@@ -12,14 +12,14 @@ Mesoscale convective systems (MCSs) play a critical role in the hydroclimate and
 - [Presentation (ISU Senior Thesis)](presentation/thielen_senior_thesis_presentation.pdf)
 - [Paper (ISU Senior Thesis)](paper/thielen_senior_thesis.pdf)
 
-## Preliminary Analysis Notebooks/Data/Figures
+## Current Analysis Notebooks/Data/Figures
 
-See [notebooks/](notebooks/).
+See [analysis/](analysis/).
 
 ## Areas of Ongoing Work
 
 - Enhancement of past results through
-  - Exapanded training sample
+  - Expanded training sample
   - Re-formulation of added morphology parameters
   - More robust CNNs
 - Including temporal continuity criteria of past studies
